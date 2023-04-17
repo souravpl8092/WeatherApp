@@ -1,7 +1,7 @@
 <h1 align="center">✨✨Welcome to Weather App✨✨</h1>
 
 <div align="center">
-  <img width="80%" src="https://i.imgur.com/1vphBeM.png" alt="Weather App"/>
+  <img  src="https://i.imgur.com/1vphBeM.png" alt="Weather App"/>
 </div>
 <br/>
 
